@@ -1,4 +1,4 @@
-# 
+# Enhance DaVinci Resolve for macOS with DaVinci Resolve for macOS instant Overlay: keyframe-animation & social-media-export, the #1 overlay. Includes keyframe-animation and
 
 
 
